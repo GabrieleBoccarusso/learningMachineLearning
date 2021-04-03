@@ -5,3 +5,15 @@ The repository with all the files that I used to learn machine learning.
 <br> my article: [Setting up a python machine learning environment on windows](https://dev.to/gabrieleboccarusso/setting-up-a-python-machine-learning-environment-on-windows-2hfi)
 <br> in the data folder you can find every csv that I have ever used,
 <br> now are all in one folder but in the future they will be more organized.
+
+## Resources
+
+### datasets
+
+- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+- [Kaggle datasets](https://www.kaggle.com/datasets)
+- [Amazon’s AWS datasets](https://registry.opendata.aws/)
+- [OpenDataMonitor](https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex)
+- [Wikipedia’s list of Machine Learning datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
+- [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [the datasets subreddit](https://www.reddit.com/r/datasets/)
