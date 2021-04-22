@@ -1,0 +1,9 @@
+1. setup new folder
+2. 'activate working folder'
+3. 'conda env export > env.yml'
+4. 'conda deactivate'
+5. go into the project folder
+6. 'conde env create --prefix ./env -f ../env.yml'
+7. activate environment
+8. jupyter notebook
+9. work
