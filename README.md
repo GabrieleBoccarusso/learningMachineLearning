@@ -3,8 +3,8 @@
 The repository with all the files that I used to learn machine learning.
 <br> The first step is to set up the environment. If you have windows you can follow
 <br> my article: [Setting up a python machine learning environment on windows](https://dev.to/gabrieleboccarusso/setting-up-a-python-machine-learning-environment-on-windows-2hfi)
-<br> in the data folder you can find every csv that I have ever used,
-<br> now are all in one folder but in the future they will be more organized.
+<br> in the data folder you can find every csv that I have used.
+<br> For my whole series about machine learning you can click [here](https://dev.to/gabrieleboccarusso/how-i-am-learning-machine-learning-week-0-o7b) while [here you see a full project done with machine learning that analyzes salaries](https://github.com/gabrieleboccarusso/learningMachineLearning/blob/main/salaries%20classification%20project.ipynb).
 
 ## Resources
 
